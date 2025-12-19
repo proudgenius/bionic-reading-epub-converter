@@ -1,5 +1,7 @@
 # Bionic Reading EPUB Converter
 
+This is forked from: https://github.com/dobrosketchkun/bionic-reading-epub-converter
+
 A cross-platform tool to convert EPUB files to Bionic Reading format, which bolds the beginning of words to help guide your eyes through text faster.
 
 <img width="596" height="430" alt="image" src="https://github.com/user-attachments/assets/ab57aa48-a0fd-4a6d-ba27-fa77021590b7" />
